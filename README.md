@@ -1,0 +1,2 @@
+# Hotel
+Just another repository
